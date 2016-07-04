@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.homepage         = "https://github.com/vilyever/VDKits"
     s.license          = 'MIT'
     s.author           = { "Vilyever" => "vilyever@gmail.com" }
-    s.source           = { :git => "https://github.com/vilyever/objcTemp.git", :tag => s.version.to_s }
+    s.source           = { :git => "https://github.com/vilyever/FTETiOSKit.git", :tag => s.version.to_s }
 
     s.platform     = :ios, '5.0'
     s.requires_arc = true
