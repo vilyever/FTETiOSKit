@@ -27,7 +27,7 @@
 #pragma Private Instance Method
 - (instancetype)initWithNibName:(NSString *)nibName
 {
-    self = [super init];
+    self = [self init];
     if (self)
     {
         NSArray *nibViews = [ [NSBundle mainBundle] loadNibNamed:nibName owner:self options:nil];

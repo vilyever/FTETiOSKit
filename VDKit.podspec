@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.description      = <<-DESC
                        It is some utils used on iOS, which implement by Objective-C.
                        DESC
-    s.homepage         = "https://github.com/vilyever/VDKits"
+    s.homepage         = "https://github.com/vilyever/FTETiOSKit"
     s.license          = 'MIT'
     s.author           = { "Vilyever" => "vilyever@gmail.com" }
     s.source           = { :git => "https://github.com/vilyever/FTETiOSKit.git", :tag => s.version.to_s }
